@@ -1,0 +1,70 @@
+
+.CxContainer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.ContainerCard{
+  display: flex;
+  justify-content: left;
+  /* align-items: center; */
+  flex-direction: column;
+  background-color: #0f0d0d;
+  border-radius: 10px;
+  border: solid 1px rgba(0, 0, 0, 0.6);
+  padding: 15px;
+  gap: 20px;
+
+}
+
+.CxCabecalhoCards{
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+  flex-direction: row;
+  gap: 5px;
+  
+  
+}
+
+.IconCards{
+  width: 40px;
+  height: 40px;
+}
+
+.TxtCabecalhoCards{
+  font-weight: 600;
+  font-size: 20px;
+  
+}
+
+.CxButtons{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Button{
+  border-radius: 25px;
+  background-color: #1890ff;
+  border: solid 1.5px #1890ff;
+  padding: 7px 20px;
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.Button:hover{
+  border-radius: 25px;
+  border: solid 1.5px #1890ff;
+  background-color: #188fff00;
+  padding: 7px 20px;
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+  cursor: pointer;
+}

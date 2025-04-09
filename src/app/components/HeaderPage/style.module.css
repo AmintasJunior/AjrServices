@@ -1,0 +1,43 @@
+.CxHeader{
+    display: flex; 
+    align-items: center;     padding: 8px 5px; 
+    justify-content: space-between;
+    border-bottom: solid 1px hsla(0, 0%, 100%, 0.1);
+
+
+}
+
+.CxLogoNavLink{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.CxLinks{
+    display: flex; 
+    align-items: center;
+    gap: 20px; 
+}
+
+.TitlePage{
+    padding: 10px 5px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.NameUser{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 10px;
+}
+
+.IconUser{
+    height: 30px;
+    width: 30px;
+}
+
+.TxtPage{
+    font-size: 22px;
+    font-weight: 500;
+}
