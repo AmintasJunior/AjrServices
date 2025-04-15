@@ -85,7 +85,7 @@ export function CardsServices() {
           <div className={styles.TxtCabecalhoCards}>Plataforma AC</div>
           </div>
           <div>
-            <div className={styles.TxtCard}>Plataforma de Gerenciamento de instrumentos de repasse da AC Consultoria</div>
+            <div className={styles.TxtCard}>Plataforma de Gerenciamento de instrumentos de repasse.</div>
           </div>
           <div className={styles.CxButtons}>
             <a href="https://acconsultoriase.com.br/login" target="_blank">
@@ -100,7 +100,7 @@ export function CardsServices() {
           <div className={styles.TxtCabecalhoCards}>TransfereGov</div>
           </div>
           <div>
-            <div className={styles.TxtCard}>Ferramenta usada para operacionalização das transferências de recursos.</div>
+            <div className={styles.TxtCard}>Tgov é usado para operacionalização dos Instrumentos de Repasse</div>
           </div>
           <div className={styles.CxButtons}>
             <a href="https://portal.transferegov.sistema.gov.br/portal/home" target="_blank">
@@ -111,7 +111,7 @@ export function CardsServices() {
 
         <div className={styles.ContainerCard}>
           <div className={styles.CxCabecalhoCards}>
-          <Image className={styles.LogoSistemaExterno} src='/Logo-sismob.png' alt="Logo AC" width={32} height={32}></Image>
+          <Image className={styles.LogoSistemaExterno} src='/Logo-sismob.png' alt="Logo AC" width={35} height={35}></Image>
           <div className={styles.TxtCabecalhoCards}>SISMOB</div>
           </div>
           <div>
@@ -130,7 +130,7 @@ export function CardsServices() {
           <div className={styles.TxtCabecalhoCards}>SIMEC Obras 2.0</div>
           </div>
           <div>
-            <div className={styles.TxtCard}>Ssitema de Monitoramento de Obras da Educação</div>
+            <div className={styles.TxtCard}>Sistema de Monitoramento de Obras da Educação</div>
           </div>
           <div className={styles.CxButtons}>
             <a href="https://simec.mec.gov.br/login.php" target="_blank">
