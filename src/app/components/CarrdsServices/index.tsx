@@ -96,7 +96,7 @@ export function CardsServices() {
 
         <div className={styles.ContainerCard}>
           <div className={styles.CxCabecalhoCards}>
-          <Image className={styles.LogoSistemaExterno} src='/Logo-Tgov.png' alt="Logo AC" width={40} height={40}></Image>
+          <Image className={styles.LogoSistemaExterno} src='/Logo-Tgov.png' alt="Logo TGOV" width={40} height={40}></Image>
           <div className={styles.TxtCabecalhoCards}>TransfereGov</div>
           </div>
           <div>
@@ -111,7 +111,7 @@ export function CardsServices() {
 
         <div className={styles.ContainerCard}>
           <div className={styles.CxCabecalhoCards}>
-          <Image className={styles.LogoSistemaExterno} src='/Logo-sismob.png' alt="Logo AC" width={35} height={35}></Image>
+          <Image className={styles.LogoSistemaExterno} src='/logo-sismob.png' alt="Logo SISMOB" width={35} height={35}></Image>
           <div className={styles.TxtCabecalhoCards}>SISMOB</div>
           </div>
           <div>
@@ -126,7 +126,7 @@ export function CardsServices() {
 
         <div className={styles.ContainerCard}>
           <div className={styles.CxCabecalhoCards}>
-          <Image className={styles.LogoSistemaExterno} src='/Logo-SIMEC.png' alt="Logo AC" width={35} height={35}></Image>
+          <Image className={styles.LogoSistemaExterno} src='/Logo-SIMEC.png' alt="Logo SIMEC" width={35} height={35}></Image>
           <div className={styles.TxtCabecalhoCards}>SIMEC Obras 2.0</div>
           </div>
           <div>
