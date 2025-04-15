@@ -1,4 +1,6 @@
 
+'use client' 
+
 import { CardsServices } from "./components/CarrdsServices";
 import { HeaderPage } from "./components/HeaderPage";
 import styles from "./page.module.css";
